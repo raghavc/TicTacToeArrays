@@ -1,5 +1,1 @@
-# WordSearchSolver
-Program that takes a picture of the word search and bank as an input and returns all the solutions for the word search
-This program is written in Python and has a Javascript Front end. 
-This program utilizes the webcam to analyze text using openCv as well Tesseract-OCR.
-Currently in development
+A take on the classic game of Tic-Tac-Toe using java as a back end. Uses only arrays in its execution and is playable through the terminal of a computer
